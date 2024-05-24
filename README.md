@@ -1,6 +1,6 @@
 # YouTube Clone
 ![Your YouTube Clone Preview](preview.png)
-Welcome to Your YouTube Clone project! This is a responsive web application aiming to mimic the functionalities of YouTube.
+Welcome to My YouTube Clone project! This is a responsive web application aiming to mimic the functionalities of YouTube.
 
 ## Features
 
