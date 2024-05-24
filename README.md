@@ -8,7 +8,7 @@ Welcome to My YouTube Clone project! This is a responsive web application aiming
 
 ## Technologies Used
 
-- **Frontend:** HTML, CSS, JavaScript, React.js (or any other frontend framework/library of your choice).
+- **Frontend:** HTML, CSS.
 
 ## Setup Instructions
 
